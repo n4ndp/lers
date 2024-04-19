@@ -1,2 +1,2 @@
 # repo
-reposit
+repositorio
